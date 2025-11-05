@@ -1,0 +1,28 @@
+// react is a LIBRARY of js(javascript)
+// used to make frontend that is the ui interface
+// it is not a programming language
+
+// #features of react.js
+// 1.single page application
+// 2.component based application
+
+// //multi page application-HTML and CSS
+// if a website has multiple pages , it is called multipage(HTML AND CSS)
+// it takes time to load the pages that reduces its speed
+// html and css made websites are slower as compared to react.js
+
+// //single page application-react.js
+// if we make same website with react js, there will only be a single page application
+// the data gets replaced with the new data wanted.thus, not loading of pages and pages does not speed of website.
+// it is generally more faster compared to html and css made website.
+
+
+//component based application-react.js
+// we cannot divide the features/components(nav bar,body,header,footer) of a html and css code.
+
+// but we can divide the components of a react file into many parts that increases the accuracy and readibility of file.
+
+//// installation of react:: we require a node.js(kinda backend)
+
+
+// JS + HTML = JSX
